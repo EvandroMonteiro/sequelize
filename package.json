@@ -1,0 +1,7 @@
+{
+  "name": "sequelize",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "evan",
+  "license": "MIT"
+}
